@@ -1,6 +1,6 @@
 # Prostate MRI Segmentation Framework
 
-A deep learning-based framework for prostate and lesion segmentation in multi-parametric MRI (mpMRI) using PyTorch and U-Net architecture.
+This implementation was developed as part of the MRI segmentation course project for CISC 881: Topics in Biomedical Computing I (Medical Image and Signal Processing).
 
 ## Overview
 
@@ -140,17 +140,6 @@ The framework produces the following:
 - Segmentation visualizations for qualitative assessment
 - Dice scores for quantitative evaluation
 
-## Citation
-
-If you use this code, please cite:
-```
-@article{your-reference,
-  title={Your Paper Title},
-  author={Your Name},
-  journal={Journal Name},
-  year={Year}
-}
-```
 
 ## License
 
