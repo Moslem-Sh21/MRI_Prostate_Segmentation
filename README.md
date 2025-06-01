@@ -197,13 +197,6 @@ python src/training/metrics.py \
 | ResU-Net | 0.869 ± 0.041 | 0.768 | 4.01 | 1.05 |
 | **Ensemble** | **0.881 ± 0.035** | **0.787** | **3.67** | **0.91** |
 
-### Qualitative Results
-![Segmentation Results](./assets/segmentation_examples.png)
-*Representative segmentation results showing ground truth (green) vs. predictions (red)*
-
-### Performance Analysis
-![Performance Metrics](./assets/performance_plots.png)
-*Dice score distribution and learning curves across different architectures*
 
 ## 🔬 Methodology Details
 
